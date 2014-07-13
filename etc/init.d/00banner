@@ -4,5 +4,5 @@
 #
 L="log -p i"
 
-$L "AOSP 4.3.1 v0.5";
+$L "AOSP 4.4.4 v0.5";
 $L "Welcome to Android `getprop ro.build.version.release`";
